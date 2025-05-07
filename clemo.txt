@@ -1,0 +1,3 @@
+Clemo = Nacho
+if Clemo == Nacho:
+	print("Facts")
